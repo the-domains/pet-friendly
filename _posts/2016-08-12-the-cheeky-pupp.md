@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The cheeky Pupp
-datePublished: '2016-08-12T20:41:39.148Z'
-dateModified: '2016-08-12T20:41:01.511Z'
+datePublished: '2016-08-12T20:45:23.215Z'
+dateModified: '2016-08-12T20:42:25.770Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-12-the-cheeky-pupp.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-12-the-cheeky-pupp.md
 url: the-cheeky-pupp/index.html
 _type: Article
 
