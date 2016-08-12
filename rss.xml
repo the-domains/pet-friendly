@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Your definitive guide to pet friendly resources]]></title>
-        <description><![CDATA[Your definitive guide to pet friendly resources]]></description>
+        <title><![CDATA[The definitive guide to pet friendly resources]]></title>
+        <description><![CDATA[The definitive guide to pet friendly resources]]></description>
         <link>https://thegrid.ai/pet-friendly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 20:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 20:41:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pet-friendly/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The cheeky Pupp</p>]]></description>
+            <link>https://thegrid.ai/pet-friendly/the-cheeky-pupp/index.html</link>
+            <guid isPermaLink="false">64bcf423-85be-4839-8c32-68add7a7cc79</guid>
+            <pubDate>Fri, 12 Aug 2016 20:41:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72b201f7-f304-4297-8867-39f501500260.jpg">]]></description>
