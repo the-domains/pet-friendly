@@ -1,6 +1,6 @@
 name: Pet Friendly
 favicon: null
-layout_spectrum: 0.75389
+layout_spectrum: 0.76058
 typography_spectrum: 0.24964243965223432
 title: null
 cta:
@@ -22,8 +22,8 @@ color:
     - '#a3a0a5'
     - '#9d7247'
     - '#1e0d17'
-  brandStrength: 0.375
-  lightness: 0.05199862131848931
+  brandStrength: 0.1875
+  lightness: 0.25
   saturation: 0.34755333070643246
   rhythmicContrast: 0.3306814110837877
 purpose: []
