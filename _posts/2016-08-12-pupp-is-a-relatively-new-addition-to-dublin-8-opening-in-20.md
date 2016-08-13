@@ -15,8 +15,8 @@ description: >-
   being prepared. Prices are keen, the food is wonderful and the staff
   incredibly friendly. What more could you
   want?https://www.facebook.com/PuppIreland
-datePublished: '2016-08-12T20:52:35.507Z'
-dateModified: '2016-08-12T20:52:22.490Z'
+datePublished: '2016-08-13T10:50:04.587Z'
+dateModified: '2016-08-12T20:55:36.104Z'
 title: ''
 author: []
 via: {}
@@ -24,7 +24,7 @@ sourcePath: >-
   _posts/2016-08-12-pupp-is-a-relatively-new-addition-to-dublin-8-opening-in-20.md
 authors: []
 publisher: {}
-starred: true
+starred: false
 url: pupp-is-a-relatively-new-addition-to-dublin-8-opening-in-20/index.html
 _type: Article
 
