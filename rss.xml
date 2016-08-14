@@ -4,8 +4,15 @@
         <description><![CDATA[Pet Friendly]]></description>
         <link>https://thegrid.ai/pet-friendly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 10:51:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 16:50:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pet-friendly/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72b201f7-f304-4297-8867-39f501500260.jpg">]]></description>
+            <link>https://thegrid.ai/pet-friendly/mvp-opened-nearly-2-years-ago-and-has-become-a-firm-favourit/index.html</link>
+            <guid isPermaLink="false">ec79a1d2-8cfc-4739-be9a-238c4b1806cb</guid>
+            <pubDate>Sun, 14 Aug 2016 16:50:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89f2a0f3-32cd-4044-808b-ec80bb78a288.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/pet-friendly/the-definitive-guide-for-dog-friendly-resources-bars-rest/index.html</link>
             <guid isPermaLink="false">d89f8fa9-6c0e-409a-8791-42d9b0d2d129</guid>
             <pubDate>Fri, 12 Aug 2016 21:31:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72b201f7-f304-4297-8867-39f501500260.jpg">]]></description>
-            <link>https://thegrid.ai/pet-friendly/mvp-opened-nearly-2-years-ago-and-has-become-a-firm-favourit/index.html</link>
-            <guid isPermaLink="false">ec79a1d2-8cfc-4739-be9a-238c4b1806cb</guid>
-            <pubDate>Fri, 12 Aug 2016 20:58:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
