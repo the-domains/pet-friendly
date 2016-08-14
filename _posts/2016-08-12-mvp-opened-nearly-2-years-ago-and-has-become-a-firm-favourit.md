@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
@@ -11,15 +11,19 @@ description: >-
   (literally, the bar tenders compete and have won world competitions) by night.
   Of course they're more than happy if you just want to drop in for a pint of
   the black stuff. 
-datePublished: '2016-08-12T20:58:22.689Z'
-dateModified: '2016-08-12T20:58:08.575Z'
+datePublished: '2016-08-14T16:50:28.588Z'
+dateModified: '2016-08-13T10:50:43.977Z'
 title: ''
 author: []
 via: {}
 sourcePath: >-
   _posts/2016-08-12-mvp-opened-nearly-2-years-ago-and-has-become-a-firm-favourit.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: mvp-opened-nearly-2-years-ago-and-has-become-a-firm-favourit/index.html
 _type: Article
