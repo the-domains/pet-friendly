@@ -13,10 +13,10 @@ description: >-
   Ireland. Once you and your four legged friend are settled in you'll be greeted
   by hugely welcoming staff and you'll be soaked in the aroma of great food
   being prepared. Prices are keen, the food is wonderful and the staff
-  incredibly friendly. What more could you want?
-  https://www.facebook.com/PuppIreland
-datePublished: '2016-08-13T10:51:23.173Z'
-dateModified: '2016-08-13T10:50:10.168Z'
+  incredibly friendly. What more could you
+  want?https://www.facebook.com/PuppIreland
+datePublished: '2016-08-24T20:44:07.560Z'
+dateModified: '2016-08-24T20:44:06.705Z'
 title: ''
 author: []
 via: {}
