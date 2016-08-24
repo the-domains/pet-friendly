@@ -19,11 +19,15 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Pet Friendly
+name: The Cheeky Pup
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Dublin 8 - Pupp cafe
+    id: b2493604-09b0-4e1c-b94f-04a1e5ff512e
+    type: content
 favicon: null
 title: The Cheeky Pup
 description: Places for paws
